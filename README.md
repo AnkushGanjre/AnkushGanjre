@@ -1,30 +1,8 @@
-🎮 Game Developer | 3D Artist | Unity Enthusiast 🎨
+Aspiring Quantitative Researcher and Algorithmic Trading Developer with a passion for leveraging Python to decode financial markets and create robust trading strategies. My expertise lies in designing efficient, data-driven algorithms for trading and continuously enhancing my knowledge of High-Frequency Trading (HFT) systems and financial modeling.
 
-Passionate about bringing virtual worlds to life through code and creativity. As a seasoned game developer and 3D artist, I thrive on crafting immersive experiences that captivate and engage players.
+As an ex-Game Developer with a solid background in C# and Unity, I bring a unique blend of creativity and technical rigor to problem-solving, with a deep understanding of performance optimization and real-time systems. My current focus is on mastering algorithmic trading, from market analysis to backtesting and API integration, all with a keen eye for scalability and precision.
 
-
-🕹️ Expertise:
-
-Unity Game Development
-C# Programming
-3D Modeling and Animation
+Driven by curiosity and a results-oriented mindset, I thrive at the intersection of technology and finance, constantly exploring innovative solutions to stay ahead in this dynamic field. Let's connect and discuss all things quant finance, trading algorithms, and high-performance systems!
 
 
-💡 Innovative Solutions:
-
-I specialize in creating clean, efficient code following best design patterns for optimal performance. My work reflects a commitment to pushing the boundaries of what's possible in the gaming industry.
-
-
-🚀 Career Highlights:
-
-With a robust background in Unity, I've successfully delivered projects ranging from captivating mobile games to interactive simulations. My passion for blending art and technology shines through in every project.
-
-
-👾 Current Focus:
-
-Currently honing my skills in cutting-edge technologies and exploring new avenues for game development. Open to collaborations and opportunities that challenge me to evolve as a developer and artist.
-
-
-🌐 Connect with Me:
-
-Let's connect and discuss the exciting possibilities at the intersection of game development and artistic expression. Your next project could be the canvas for our collaborative masterpiece.
+📧 Feel free to reach out to me via email at ankushganjre@gmail.com or connect with me on LinkedIn.
